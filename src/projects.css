@@ -33,6 +33,10 @@
 	/*border: 1px solid black;*/
 }
 
+.info p {
+	text-indent: 25px;
+}
+
 .info a{
 	text-decoration: none;
 	color: #84c1e0;

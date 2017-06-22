@@ -20,6 +20,7 @@ class Projects extends Component{
 
 					<div className="info">
 						<a href="https://github.com/rsproule/WashUBubble"> Wash U Bubble </a>
+						<br/><br/>
 						<p>
 						 Mobile app for Wash U students for class collaboration and networking.
 						 Cross platform developed using Google's Flutter SDK.
@@ -36,6 +37,7 @@ class Projects extends Component{
 
 					<div className="info">
 						<a href="https://github.com/rsproule/react-media-site"> React Media Site </a>
+						<br/><br/>
 						<p>
 						 Media Sharing Site with well crafted UI for ultimate video, music, and picture viewing and sharing.
 						</p>
@@ -50,6 +52,7 @@ class Projects extends Component{
 
 					<div className="info">
 						<a href="https://github.com/rsproule/JS_Calendar"> Javascript Calendar </a>
+						<br/><br/>
 						<p>
 						 Calendar application built with mostly vanilla javascript and a little jquery for the frontend with PHP backend and 
 						 a mySQL database.
@@ -65,6 +68,7 @@ class Projects extends Component{
 
 					<div className="info">
 						<a href="unhooked"> NodeJs and Socket IO Chat App </a>
+						<br/><br/>
 						<p>
 						 Chat room app with Socket IO real time updates built on a NodeJs server, primarily built in Javascript.
 						</p>
@@ -80,6 +84,7 @@ class Projects extends Component{
 
 					<div className="info">
 						<a href="unhooked"> Arduino Fit Bit Clone </a>
+						<br/><br/>
 						<p>
 						 Arduino with accelerometer and temperature sensor that tracks movement and temp data and passes it to a 
 						 Java UI that plots accelerometer data and track 'steps'.
