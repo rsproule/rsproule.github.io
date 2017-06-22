@@ -1,0 +1,46 @@
+.projects-container{
+	margin: 0 20%;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 5px;
+	display: inline-block;
+	margin-bottom: 20px; 
+}
+.thumbnail{
+	margin: 5px;
+	max-width: 100%;
+	border-radius: 6px;
+	/*padding: 10px;*/
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.image{
+	width: 15%;
+	/*border: 1px solid black;*/
+	float: left;
+	
+}
+
+.info{
+	width: 80%;
+	float: right;
+	padding: 10px;
+	display: inline-block;
+	/*border: 1px solid black;*/
+}
+
+.info a{
+	text-decoration: none;
+	color: #84c1e0;
+}
+
+.info a:hover{
+	opacity: .8;
+}
+.info a:active{
+	color: #51b5e8;
+}
