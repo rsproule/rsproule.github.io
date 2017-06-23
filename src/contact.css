@@ -16,10 +16,17 @@
 }
 
 
-.contact-info{
+@media (min-width:800px){.contact-info{
 	margin: 0 25%;
 	text-align: center;
-}
+}}
+
+@media (max-width:799px){.contact-info{
+	margin: 0 5%;
+	text-align: center;
+}}
+
+
 
 .contact-info li {
 	list-style-type: none;
