@@ -1,5 +1,16 @@
+
+@font-face{
+	 font-family: 'notosarif';
+    src: url('./fonts/NotoSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
 .projects-container{
 	margin: 0 20%;
+	font-family: notosarif;
 }
 
 .card{
@@ -8,6 +19,11 @@
 	display: inline-block;
 	margin-bottom: 20px; 
 }
+
+.card:hover{
+
+}
+
 .thumbnail{
 	margin: 5px;
 	max-width: 100%;

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './projects.css';
+import './animations.css';
 
 class Projects extends Component{
 
@@ -11,6 +12,8 @@ class Projects extends Component{
 
 	render(){
 		return(
+
+			<div className="pullDown">
 			<div className="projects-container">
 				<div className="card">
 					<div className="image">
@@ -79,7 +82,7 @@ class Projects extends Component{
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
-							"https://cdn.instructables.com/ORIG/FMJ/FMG5/IMZ65K95/FMJFMG5IMZ65K95.png"/>
+							"http://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
 					</div>
 
 					<div className="info">
@@ -92,6 +95,7 @@ class Projects extends Component{
 					</div> 
 				</div>
 
+			</div>
 			</div>
 		)
 	}

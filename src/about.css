@@ -1,0 +1,30 @@
+
+
+@font-face{
+	 font-family: 'notosarif';
+    src: url('./fonts/NotoSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+.about-container{
+	margin: 0 25%;
+	font-family: notosarif;
+}
+
+.about-container p {
+	text-indent: 20px;
+	line-height: 22px;
+}
+
+.about-container li {
+	margin-left: 8%;
+	padding: 4px;
+}
+
+.about-container h3{
+	margin-left: 16px; 
+}
