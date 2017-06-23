@@ -15,6 +15,7 @@ class Projects extends Component{
 
 			<div className="pullDown">
 			<div className="projects-container">
+				<a href="https://github.com/rsproule/WashUBubble">
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
@@ -31,7 +32,8 @@ class Projects extends Component{
 					</div> 
 	
 				</div>
-
+				</a>
+				<a href="https://github.com/rsproule/react-media-site">
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
@@ -46,7 +48,9 @@ class Projects extends Component{
 						</p>
 					</div> 
 				</div>
+				</a>
 
+				<a href="https://github.com/rsproule/JS_Calendar"> 
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
@@ -62,7 +66,7 @@ class Projects extends Component{
 						</p>
 					</div> 
 				</div>
-
+				</a>
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
