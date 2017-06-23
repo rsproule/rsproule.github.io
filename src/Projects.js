@@ -23,12 +23,46 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="https://github.com/rsproule/WashUBubble"> Wash U Bubble </a>
-						<br/><br/>
+						<a href="https://github.com/rsproule/WashUBubble"> <h2> Free Food Event Manager </h2> </a>
+						<p>
+						 Mobile app for iOS and Android that can allow users to keep track of all the free Food
+						 events on campus. Users can favorite certain events and recieve notifications when the
+						 events are happening. 
+						</p>
+
+						<div className="tags">
+							<ul>
+								<li>Flutter</li>
+								<li>Dart</li>
+								<li>Firebase</li>
+								<li>Swift + Xcode </li>
+								<li> Android Java </li>
+							</ul>
+						</div>
+					</div> 
+	
+				</div>
+
+				<div className="card">
+					<div className="image">
+						<img className="thumbnail" alt="thumbnail" src=
+							"https://pbs.twimg.com/profile_images/760249570085314560/yCrkrbl3.jpg"/>
+					</div>
+
+					<div className="info">
+						<a href="https://github.com/rsproule/WashUBubble"> <h2> Wash U Bubble </h2> </a>
 						<p>
 						 Mobile app for Wash U students for class collaboration and networking.
 						 Cross platform developed using Google's Flutter SDK.
 						</p>
+
+						<div className="tags">
+							<ul>
+								<li>Flutter</li>
+								<li>Dart</li>
+								<li>Firebase</li>
+							</ul>
+						</div>
 					</div> 
 	
 				</div>
@@ -41,11 +75,21 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="https://github.com/rsproule/react-media-site"> React Media Site </a>
-						<br/><br/>
+						<a href="https://github.com/rsproule/react-media-site"> <h2> React Media Site </h2> </a>
 						<p>
 						 Media Sharing Site with well crafted UI for ultimate video, music, and picture viewing and sharing.
 						</p>
+
+						<div className="tags">
+							<ul>
+								<li>ReactJS</li>
+								<li>JavaScript</li>
+								<li>Webpack</li>
+								<li>HTML+CSS</li>
+								<li>PHP</li>
+								<li>MySQL</li>
+							</ul>
+						</div>
 					</div> 
 				</div>
 				</a>
@@ -58,12 +102,22 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="https://github.com/rsproule/JS_Calendar"> Javascript Calendar </a>
-						<br/><br/>
+						<a href="https://github.com/rsproule/JS_Calendar"><h2> Javascript Calendar </h2></a>
+						
 						<p>
 						 Calendar application built with mostly vanilla javascript and a little jquery for the frontend with PHP backend and 
-						 a mySQL database.
+						 a mySQL database served up on an Apache server.
 						</p>
+
+						<div className="tags">
+							<ul>
+								<li>JavaScript</li>
+								<li>JQuery</li>
+								<li>PHP</li>
+								<li>HTML+CSS</li>
+								<li>MySQL</li>
+							</ul>
+						</div>
 					</div> 
 				</div>
 				</a>
@@ -74,11 +128,20 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="unhooked"> NodeJs and Socket IO Chat App </a>
-						<br/><br/>
+						<a href="unhooked"><h2> NodeJs and Socket IO Chat App </h2></a>
+						
 						<p>
 						 Chat room app with Socket IO real time updates built on a NodeJs server, primarily built in Javascript.
 						</p>
+
+						<div className="tags">
+							<ul>
+								<li>JavaScript</li>
+								<li>NodeJs</li>
+								<li>Socket.io</li>
+								<li>HTML+CSS</li>
+							</ul>
+						</div>
 					</div> 
 				</div>
 
@@ -90,12 +153,38 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="unhooked"> Arduino Fit Bit Clone </a>
-						<br/><br/>
+						<a href="unhooked"><h2> Arduino Fit Bit Clone </h2></a>
 						<p>
 						 Arduino with accelerometer and temperature sensor that tracks movement and temp data and passes it to a 
 						 Java UI that plots accelerometer data and track 'steps'.
 						</p>
+
+						<div className="tags">
+							<ul>
+								<li>Arduino C</li>
+								<li>Java</li>
+							</ul>
+						</div>
+
+					</div> 
+				</div>
+				<div className="card">
+					<div className="image">
+						<img className="thumbnail" alt="thumbnail" src=
+							"http://projects.gerryscuppatea.org/Icons/GerrysMandelbrotSet.png"/>
+					</div>
+
+					<div className="info">
+						<a href="unhooked"><h2> Java Mandelbrot Set Visualizer </h2></a>
+						<p>
+						 Small project that plots the mandelbrot set with color and allows infinite zoom. 
+						</p>
+
+						<div className="tags">
+							<ul>
+								<li>Java</li>
+							</ul>
+						</div>
 					</div> 
 				</div>
 

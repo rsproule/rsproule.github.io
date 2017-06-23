@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './animations.css';
 
 class Contact extends Component{
 
@@ -8,12 +9,13 @@ class Contact extends Component{
 			-obvious contact info
 			-linked in
 			-email
-			-
+			- 
 	*/
 
 	render(){
 		return(
-			<div>
+			<div className="pullDown">
+				
 			</div>
 		)
 	}

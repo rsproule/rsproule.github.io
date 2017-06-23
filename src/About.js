@@ -17,7 +17,7 @@ class About extends Component{
 		return(
 			<div className="pullDown">
 			<div className="about-container"> 
-				<h2> Who am I? </h2>
+				<h2> About </h2>
 				<p> 
 						I am a computer science student who has a passion for building and learning about cool software. 
 					I formally got into software development when I was a Freshman at Washington University in St. Louis but 
