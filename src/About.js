@@ -10,6 +10,8 @@ class About extends Component{
 			-quick info about me
 			-interests hobbies(soccer/sports)
 			-basically the info from the previous site
+
+
 	*/
 
 	render(){
@@ -22,7 +24,7 @@ class About extends Component{
 						I am a computer science student who has a passion for building and learning about cool software. 
 					I formally got into software development when I was a Freshman at Washington University in St. Louis but 
 					my enthusiasm for working with computers goes all the way back to when I was a kid. Around my house,
-					I have become a de facto computer repair/assitance man for any and all tech problems that arise
+					I have become a DE facto computer repair/assistance man for any and all tech problems that arise
 					with my parents or siblings. As the result of this and my general curiosity towards technology I have been
 					able to teach myself a good bit about computer hardware and software.
 				</p>
@@ -56,7 +58,7 @@ class About extends Component{
 					<li> Dart </li>
 					<li> C </li>
 					<li> Arduino </li>
-					<li> Swift/Xcode </li>
+					<li> Swift/X code </li>
 					<li> Flutter </li>
 					<li> Amazon Web Services </li>
 					<li> Linux </li>
@@ -82,8 +84,8 @@ class About extends Component{
 					<li> JavaScript </li>
 					<li> Firebase </li>
 					<li> Socket.io </li>
-					<li> Node.js </li>
-					<li> Webpack </li>
+					<li> Node.JS </li>
+					<li> Web-pack </li>
 					
 				</ul>
 

@@ -1,4 +1,66 @@
-.home-container{
-	margin-right: 20%;
-	margin-left: 20%;
+
+@font-face{
+	 font-family: 'notosarif';
+    src: url('./fonts/NotoSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
+@font-face{
+	 font-family: 'ansonregular';
+    src: url('./fonts/anson-regular-webfont.eot');
+    src: url('./fonts/anson-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/anson-regular-webfont.woff') format('woff'),
+         url('./fonts/anson-regular-webfont.ttf') format('truetype'),
+         url('./fonts/anson-regular-webfont.svg#ansonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@media (min-width:800px){.home-container{
+	margin: 0 20%;
+	font-family: notosarif;
+}}
+
+@media (max-width:799px){.home-container{
+	margin: 0 5%;	
+	font-family: notosarif;
+
+}}
+
+
+
+.personal-statement{
+	/*box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 4px 0 rgba(0, 0, 0, 0.19);*/
+	border-radius: 5px;
+	display: inline-block;
+	margin-bottom: 20px; 
+}
+
+.personal-statement p {
+	text-indent: 28px;
+	font-family: notosarif;
+	line-height: 28px;
+}
+
+.resume{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.resume a {
+	font-family: ansonregular;
+	font-size: 20pt;
+	padding: 20px 40px;
+	background-color: #66b2f9;	
+	border-radius: 5px;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 4px 0 rgba(0, 0, 0, 0.19);
+}
+
+.resume img {
+	width: 20px;
+	height: 20px;
+	margin-left: 10px; 
+}
+
+

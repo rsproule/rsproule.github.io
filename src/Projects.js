@@ -8,6 +8,10 @@ class Projects extends Component{
 		Needs to contain:
 			- all my projects obv
 			- maybe a blog like info blurb about each if them
+			
+
+						  
+
 	*/
 
 	render(){
@@ -26,7 +30,7 @@ class Projects extends Component{
 						<a href="https://github.com/rsproule/WashUBubble"> <h2> Free Food Event Manager </h2> </a>
 						<p>
 						 Mobile app for iOS and Android that can allow users to keep track of all the free Food
-						 events on campus. Users can favorite certain events and recieve notifications when the
+						 events on campus. Users can favorite certain events and receive notifications when the
 						 events are happening. 
 						</p>
 
@@ -77,7 +81,8 @@ class Projects extends Component{
 					<div className="info">
 						<a href="https://github.com/rsproule/react-media-site"> <h2> React Media Site </h2> </a>
 						<p>
-						 Media Sharing Site with well crafted UI for ultimate video, music, and picture viewing and sharing.
+						 Media Sharing Site with well crafted UI for ultimate video, music, and picture viewing
+						  and sharing.
 						</p>
 
 						<div className="tags">
@@ -105,7 +110,7 @@ class Projects extends Component{
 						<a href="https://github.com/rsproule/JS_Calendar"><h2> Javascript Calendar </h2></a>
 						
 						<p>
-						 Calendar application built with mostly vanilla javascript and a little jquery for the frontend with PHP backend and 
+						 Calendar application built with mostly vanilla JavaScript and a little JQuery for the front-end with PHP back-end and 
 						 a mySQL database served up on an Apache server.
 						</p>
 
@@ -131,8 +136,9 @@ class Projects extends Component{
 						<a href="unhooked"><h2> NodeJs and Socket IO Chat App </h2></a>
 						
 						<p>
-						 Chat room app with Socket IO real time updates built on a NodeJs server, primarily built in Javascript.
-						</p>
+							Chat room application with Socket IO real time updates built on a NodeJs
+							server, primarily built in JavaScript.					
+						 </p>
 
 						<div className="tags">
 							<ul>
@@ -177,7 +183,7 @@ class Projects extends Component{
 					<div className="info">
 						<a href="unhooked"><h2> Java Mandelbrot Set Visualizer </h2></a>
 						<p>
-						 Small project that plots the mandelbrot set with color and allows infinite zoom. 
+						 Small project that plots the Mandelbrot set with color and allows infinite zoom. 
 						</p>
 
 						<div className="tags">
