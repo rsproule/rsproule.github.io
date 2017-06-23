@@ -7,7 +7,15 @@
     font-style: normal;
 }
 
+@media (min-width:800px){.about-container{
+	margin: 0 25%;
+	font-family: notosarif;
+}}
 
+@media (max-width:799px){.about-container{
+	margin: 0 1%;
+	font-family: notosarif;
+}}
 
 
 .about-container{
