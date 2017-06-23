@@ -7,11 +7,11 @@
 }
 
 
-@media (min-width:500px){.projects-container{
+@media (min-width:800px){.projects-container{
 	margin: 0 20%;
 	font-family: notosarif;
 }}
-@media (max-width:499px){.projects-container{
+@media (max-width:799px){.projects-container{
 	margin: 0 0;
 	font-family: notosarif;
 }}
