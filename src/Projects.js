@@ -46,7 +46,8 @@ class Projects extends Component{
 					</div> 
 	
 				</div>
-
+				</a>
+				<a href="https://github.com/rsproule/WashUBubble">
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
