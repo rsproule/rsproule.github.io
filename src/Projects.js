@@ -19,7 +19,7 @@ class Projects extends Component{
 
 			<div className="pullDown">
 			<div className="projects-container">
-				<a href="https://github.com/rsproule/WashUBubble">
+				<a href="https://github.com/rsproule/FreeFoodApp">
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
@@ -27,7 +27,7 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="https://github.com/rsproule/FreeFppdApp"> <h2> Free Food Event Manager </h2> </a>
+						<a href="https://github.com/rsproule/FreeFoodApp"> <h2> Free Food Event Manager </h2> </a>
 						<p>
 						 Mobile app for iOS and Android that can allow users to keep track of all the free Food
 						 events on campus. Users can favorite certain events and receive notifications when the
