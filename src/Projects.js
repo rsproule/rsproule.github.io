@@ -28,7 +28,7 @@ class Projects extends Component{
 					</div>
 
 					<div className="info">
-						<a href="https://github.com/rsproule/FreeFoodApp"> <h2> U Grub </h2> </a>
+						<a href="https://github.com/rsproule/UGrub"> <h2> U Grub </h2> </a>
 						<p>
 						 Mobile app for iOS and Android that can allow users to keep track of all the free Food
 						 events on campus. Users can favorite certain events and receive notifications when the
