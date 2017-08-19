@@ -19,15 +19,16 @@ class Projects extends Component{
 
 			<div className="pullDown">
 			<div className="projects-container">
-				<a href="https://github.com/rsproule/FreeFoodApp">
+
+				<a href="https://github.com/rsproule/ugrub2">
 				<div className="card">
 					<div className="image">
 						<img className="thumbnail" alt="thumbnail" src=
-							"https://pbs.twimg.com/profile_images/760249570085314560/yCrkrbl3.jpg"/>
+							"http://52.14.73.202/~rsproule/misc/ugrub_logo_black_back.png"/>
 					</div>
 
 					<div className="info">
-						<a href="https://github.com/rsproule/FreeFoodApp"> <h2> Free Food Event Manager </h2> </a>
+						<a href="https://github.com/rsproule/FreeFoodApp"> <h2> U Grub </h2> </a>
 						<p>
 						 Mobile app for iOS and Android that can allow users to keep track of all the free Food
 						 events on campus. Users can favorite certain events and receive notifications when the
